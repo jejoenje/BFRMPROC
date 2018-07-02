@@ -4,7 +4,6 @@
 ###  - format() on values from strptime() to express things in week, month etc, so you can use it to summarise by day.
 ###  - The bit "Resample full data set" summarises PIT 'hits' by 10 second blocks (i.e. treats all hits of the same code as one)
 
-
 library(xlsx)
 
 ### LOAD PIT TAG DATA:
